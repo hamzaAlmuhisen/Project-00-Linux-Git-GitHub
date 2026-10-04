@@ -1,0 +1,5 @@
+commit 5f7590f520f9890894204a1ea9eba24df7cae01e
+Author: hamzaAlmuhisen <halmuhen@gmail.com>
+Date:   Sun Oct 4 10:36:34 2026 +0300
+
+    add hello.txt

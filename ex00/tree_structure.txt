@@ -1,0 +1,40 @@
+dev_workspace:
+total 20
+drwxr-xr-x 5 haalmuhi _amman 4096 Oct  1 10:23 .
+drwxr-xr-x 3 haalmuhi _amman 4096 Oct  1 10:25 ..
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:23 archives
+drwxr-xr-x 3 haalmuhi _amman 4096 Oct  1 10:23 projects
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:23 tools
+
+dev_workspace/archives:
+total 8
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:23 .
+drwxr-xr-x 5 haalmuhi _amman 4096 Oct  1 10:23 ..
+
+dev_workspace/projects:
+total 12
+drwxr-xr-x 3 haalmuhi _amman 4096 Oct  1 10:23 .
+drwxr-xr-x 5 haalmuhi _amman 4096 Oct  1 10:23 ..
+drwxr-xr-x 4 haalmuhi _amman 4096 Oct  1 10:24 web
+
+dev_workspace/projects/web:
+total 16
+drwxr-xr-x 4 haalmuhi _amman 4096 Oct  1 10:24 .
+drwxr-xr-x 3 haalmuhi _amman 4096 Oct  1 10:23 ..
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:24 backend
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:23 frontend
+
+dev_workspace/projects/web/backend:
+total 8
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:24 .
+drwxr-xr-x 4 haalmuhi _amman 4096 Oct  1 10:24 ..
+
+dev_workspace/projects/web/frontend:
+total 8
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:23 .
+drwxr-xr-x 4 haalmuhi _amman 4096 Oct  1 10:24 ..
+
+dev_workspace/tools:
+total 8
+drwxr-xr-x 2 haalmuhi _amman 4096 Oct  1 10:23 .
+drwxr-xr-x 5 haalmuhi _amman 4096 Oct  1 10:23 ..

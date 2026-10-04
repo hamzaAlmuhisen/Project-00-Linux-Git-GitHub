@@ -1,0 +1,13 @@
+# Git Workflow
+
+
+  **Edit:** This is when you create, delete, change, or modify code. Git tracks these changes in your working directory.
+    
+   **Add:** This is when you stage your changes. For example, if you add a new line, modify existing code, or remove something, you can use `git add` to stage those changes for the next commit.
+   For example `git add README.md or git add .`
+   
+   **Commit:** This is when you save the staged changes to Git with a message describing what you changed. A good commit message helps you understand what was changed when you look back at the project later.
+   For example `git commit -m "add readme file " `
+    
+   **Push:** This is the final step. When you want to send your committed changes to the remote repository in the cloud, such as GitHub, you use `git push`.
+
